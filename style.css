@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(167, 255, 255);
+    font-family: unset;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgba(175, 252, 180, 0.923);
+}
+
+ol {
+    color: lightblue;
+}
+ul {
+    font-family: fantasy;
+    color: rgb(122, 133, 252);
+}
+
+i {
+    color: rgb(205, 151, 255);
+}
